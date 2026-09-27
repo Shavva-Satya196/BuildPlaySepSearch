@@ -17,7 +17,7 @@ ShopIntel is an AI-powered shopping research platform that helps users **search,
 
 ## 🏗️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, TypeScript
 * **Backend:** NextJS
 * **Search:** SerpApi
 * **AI:** Google Gemini
